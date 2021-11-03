@@ -29,7 +29,7 @@ for i in range (7):
     print(z)
     deck.remove(z)
 
-print(len(deck))
+print(deck)
 
 
 
